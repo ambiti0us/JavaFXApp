@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="JavaFXApp">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaFXApp</output-path>
+    <root id="archive" name="JavaFXApp.war">
+      <element id="javaee-facet-resources" facet="JavaFXApp/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="JavaFXApp" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
